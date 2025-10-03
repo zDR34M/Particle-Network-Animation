@@ -10,6 +10,7 @@ Particles move around the screen and connect with lines when close to each other
 ## 🚀 Features
 - Black background with colorful moving particles.
 - Particles connect with glowing lines when within a certain distance.
+- **Interactive mouse effect**: particles are attracted to the cursor.
 - Responsive (works on any screen size).
 - Lightweight, pure JavaScript – no libraries required.
 
